@@ -1,6 +1,6 @@
 ### Hi, I'm Kianoosh 👋
 
-💻 Interested in Python Backend Development and AI Automation.
+Interested in Python Backend Development and AI Automation.
 
 **Technologies I work with:**
 - **Backend:** Python, Django
