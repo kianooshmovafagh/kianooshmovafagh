@@ -1,4 +1,4 @@
-### Hi, I'm Kianoosh 👋
+### Hi, I'm Kianoosh 
 
 Interested in Python Backend Development and AI Automation.
 
